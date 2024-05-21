@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricLindgren1983
 - 👀 I’m interested in Python, Django, Javascript/jquery, Java, full stack web development, and in general any sort of coding
-- 🌱 I’m currently developing two web apps in the Django framework for my company, M/A/R/C Research
+- 🌱 I’m currently developing two web platforms in the Django framework for my company, M/A/R/C Research, both of which use Python/Django and jquery/Node
 - 📫 You can reach me at Eric.Lindgren@marcresearch.com
 
 <!---
